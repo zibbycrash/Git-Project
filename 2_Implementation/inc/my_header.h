@@ -1,12 +1,9 @@
 /**
  * @file my_header.h
- * @author  Prabhat Roshan
+ * @author  Zuber Ahmed
  * @brief functions for different mathematical operations
  * @version 0.1
- * @date 2021-04-13
- * 
- * @copyright Copyright (c) 2021
- * 
+ * @date 2021-06-07
  */
 
 
