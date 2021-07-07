@@ -4,6 +4,8 @@ My Mini Project title is "Applications of a Calculator". The main objective of t
 
 ![c-mini-project-a-simple-calculator-application-696x393](https://user-images.githubusercontent.com/80385292/114994070-0894b080-9eba-11eb-904e-0522f6100f8e.jpg)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b473d60751f84d598a9f7f0ec3979a50)](https://www.codacy.com/gh/zibbycrash/Git-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zibbycrash/Git-Project&amp;utm_campaign=Badge_Grade)
+
 ##### I Used Multifile Programming concept to complete this project by using user defined header file and also used Makefile concept. 
 
 ### Folder Structure
