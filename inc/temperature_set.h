@@ -1,9 +1,9 @@
 /**
  * @file temperature_set.h
- * @author Gobikumaar Sivagnanam
+ * @author Zuber Ahmed
  * @brief Function to read the input from ADC and store this
  * @version 0.1
- * @date 2021-04-29
+ * @date 2021-07-28
  * 
  * @copyright Copyright (c) 2021
  * 
