@@ -1,9 +1,9 @@
 /**
  * @file initial_check.h
- * @author Gobikumaar Sivagnanam
+ * @author Zuber Ahmed
  * @brief To Configure the pins to input switch status and output port for LED
  * @version 0.1
- * @date 2021-04-27
+ * @date 2021-07-28
  * 
  * @copyright Copyright (c) 2021
  * 
