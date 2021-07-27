@@ -1,11 +1,7 @@
 # Git-Project
 
 ## Badges
-| Badge Name | Status |
-|----|----|
-| Build | [![Compile-Linux](https://github.com/zibbycrash/Git-Project/actions/workflows/compile_linux.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Embedded-C/actions/workflows/compile_linux.yml) |
-| Static Analysis Cppcheck | [![Cppcheck](https://github.com/zibbycrash/Git-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Embedded-C/actions/workflows/cppcheck.yml) |
-| Codeacy Code Quality | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/62503da33ec14a23a99c2461e483673a)](https://www.codacy.com/gh/zibbycrash/Git-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gobikumaar-Sivagnanam/Embedded-C&amp;utm_campaign=Badge_Grade) |
+
 
 ## Design Approach
 | Requirement | My Implementation Idea |
