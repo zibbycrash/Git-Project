@@ -1,7 +1,8 @@
 # Git-Project
 
 ## Badges
-| Badge Name | Status | |----|----| | Build | | Codeacy Code Quality | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cd110f37562546488fa1a57e924b1589)](https://www.codacy.com/gh/zibbycrash/Git-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zibbycrash/Git-Project&amp;utm_campaign=Badge_Grade) |
+| Badge Name | Status | |----|----| | Build | 
+| Codeacy Code Quality | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cd110f37562546488fa1a57e924b1589)](https://www.codacy.com/gh/zibbycrash/Git-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zibbycrash/Git-Project&amp;utm_campaign=Badge_Grade) |
 
 ## Design Approach
 | Requirement | My Implementation Idea |
